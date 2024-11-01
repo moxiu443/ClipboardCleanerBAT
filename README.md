@@ -6,4 +6,4 @@ simple clipboard cleaner made with notepad++ and saved as .bat file
 
 1. Download The `.zip` file and extract it.
 
-2. after the 1 step just simpily launch the program and clean your clipboard
+2. after the step one, just simpily launch the program and clean your clipboard
